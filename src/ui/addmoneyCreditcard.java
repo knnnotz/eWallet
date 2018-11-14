@@ -9,12 +9,12 @@ package ui;
  *
  * @author LEVEL51
  */
-public class payment extends javax.swing.JPanel {
+public class addmoneyCreditcard extends javax.swing.JPanel {
 
     /**
      * Creates new form payment
      */
-    public payment() {
+    public addmoneyCreditcard() {
         initComponents();
     }
 
